@@ -6,12 +6,17 @@
 
 #### some images:
 
-- ![Gaussian blur](/docs/gaus_blur.png "Gaussian blur")
+- Gaussian blur
+![Gaussian blur](/docs/gaus_blur.png "Gaussian blur")
 
-- ![Canny algorithm for finding edges](/docs/canny.png "Canny algorithm")
+- Canny algorithm for finding edges
+![Canny algorithm for finding edges](/docs/canny.png "Canny algorithm")
 
-- ![Hough transform](/docs/hough.png "Hough transform")
+- Hough transform
+![Hough transform](/docs/hough.png "Hough transform")
 
-- ![Iris segmentation](/docs/iris_segmentation.png "Iris segmentation")
+- Iris segmentation
+![Iris segmentation](/docs/iris_segmentation.png "Iris segmentation")
 
-- ![Pupil detection with Starburst algorithm](/docs/sb_eye3.png "Pupil detection with Starburst algorithm")
+- Pupil detection with Starburst algorithm
+![Pupil detection with Starburst algorithm](/docs/sb_eye3.png "Pupil detection with Starburst algorithm")
