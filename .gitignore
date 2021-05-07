@@ -1,0 +1,7 @@
+/*
+!.gitignore
+!readme.md
+!main.py
+!/data
+/docs/*.pdf
+!/docs
