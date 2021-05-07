@@ -6,17 +6,17 @@
 
 #### some images:
 
-- Gaussian blur
+- Gaussian blur<br>
 ![Gaussian blur](/docs/gaus_blur.png "Gaussian blur")
 
-- Canny algorithm for finding edges
+- Canny algorithm for finding edges<br>
 ![Canny algorithm for finding edges](/docs/canny.png "Canny algorithm")
 
-- Hough transform
+- Hough transform<br>
 ![Hough transform](/docs/hough.png "Hough transform")
 
-- Iris segmentation
+- Iris segmentation<br>
 ![Iris segmentation](/docs/iris_segmentation.png "Iris segmentation")
 
-- Pupil detection with Starburst algorithm
+- Pupil detection with Starburst algorithm<br>
 ![Pupil detection with Starburst algorithm](/docs/sb_eye3.png "Pupil detection with Starburst algorithm")
